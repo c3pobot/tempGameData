@@ -1,0 +1,1 @@
+swgoh game data files
